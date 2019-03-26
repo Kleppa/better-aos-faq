@@ -23,7 +23,8 @@
  - Hvis søkeprefiksen er prefiksen til tag, må denne vises som en tag som brukeren kan interagere med
 
  - Hadde også vært kjekt å kunne sortere treffene på «most interacted with», som basically gjør det lettere å finne de tingene folk flest lurer på oftest
-
+ 
+- Ønsker meg en side der jeg kan skrive inn i stats boksenfor rend " -1 " og få opp alle units som har -1 rend på ett våpen Eller i     ability boksen "-1 to hit" og få opp alle units som på en eller annen måte kan gi -1 to hit.. eller + attack og få opp alle som kan booste med 1 eller fler attack.. Og ikke minst kunne sortere/filtrere på orders og factions..
 
  ### Parsing notes
 
